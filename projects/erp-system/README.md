@@ -179,7 +179,7 @@ Some notable engineering challenges included:
 
 ## Insurance Portal
 
-![](screenshots/insurance-portal.png)
+![](screenshots/insuranceportal.png)
 
 ---
 
