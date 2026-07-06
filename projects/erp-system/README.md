@@ -173,7 +173,7 @@ Some notable engineering challenges included:
 
 ## Dashboard
 
-![](screenshots/dashboard.avif)
+![](screenshots/dashboard.png)
 
 ---
 
